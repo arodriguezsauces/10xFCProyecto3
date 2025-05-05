@@ -1,5 +1,17 @@
 # Proyecto 3 - Construir un contenedor de mysql y su ejecución
 
+## Objetivo
+
+Creación de una base de datos, usuario y password del usuario así como el root
+MYSQL_DATABASE=bd_biblioteca \
+    MYSQL_USER=user_biblioteca \
+    MYSQL_PASSWORD=pass_biblioteca \
+    MYSQL_ROOT_PASSWORD=root_pass
+
+- creación de la estructura y su carga inicial
+- Comprobación desde mysql
+- Comprobación desde VisualStudioCode y/o WorkBech y/o Netbeans
+
 ## Crea la siguiente estructura
 
 ```
